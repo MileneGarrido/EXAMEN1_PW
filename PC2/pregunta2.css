@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+h2 {
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+.row{
+    justify-content: center;
+}
+.datos {
+    background-color: #e9ecef;
+    border-color: #c9c6bc;
+}
+
+.resultado {
+    text-align: center;
+    background-color: rgb(218, 132, 132);
+}
+
+
+
+
+
+

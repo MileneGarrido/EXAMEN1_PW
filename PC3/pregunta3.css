@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+h2 {
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.table {
+    margin-bottom: 20px;
+}
+
+.table th, .table td {
+    text-align: center;
+    vertical-align: middle;
+}
+
+.alert {
+    
+    text-align: center;
+    border-color: rgb(224, 72, 26);
+}
+
+
+tbody  {
+    background-color: #f2f2f2;
+}
+
+
